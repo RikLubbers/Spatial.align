@@ -1,7 +1,7 @@
 # spatial.align
 
 ## Overview
-`spatial.align` is an R package providing functions for spatial data alignment and verification. This package includes the `align` and `verify_properties` functions, designed to facilitate spatial data pre-processing tasks. It is based on the `Raster Alignment` tool from `QGis` [QGIS User Manual on Raster Analysis](https://docs.qgis.org/2.18/en/docs/user_manual/working_with_raster/raster_analysis.html#id3). This package is helpful when being provided with a raster file bigger than your study area. The raster file can then be aligned with a your smaller study area. 
+`spatial.align` is an R package providing functions for spatial data alignment and verification. This package includes the `align` and `verify_properties` functions, designed to facilitate spatial data pre-processing tasks. It is based on the `Raster Alignment` tool from `QGis` ([QGIS User Manual on Raster Analysis](https://docs.qgis.org/2.18/en/docs/user_manual/working_with_raster/raster_analysis.html#id3)). This package is helpful when being provided with a raster file bigger than your study area. The raster file can then be aligned with a your smaller study area. 
 
 ## Installation
 
